@@ -43,3 +43,15 @@
   outline: none;
   cursor: pointer;
 }
+
+@media screen and (min-width: 768px) {
+  .home-heading {
+    font-size: 35px;
+  }
+  .home-para {
+    font-size: 20px;
+  }
+  .home-btn {
+    font-size: 20px;
+  }
+}

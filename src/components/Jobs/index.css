@@ -125,4 +125,19 @@
     flex-direction: column;
     width: 68%;
   }
+  .list-heading {
+    font-size: 25px;
+  }
+  .each-option-heading {
+    font-size: 20px;
+  }
+  .jobs-failure-view-heading {
+    font-size: 25px;
+  }
+  .jobs-failure-view-para {
+    font-size: 20px;
+  }
+  .jobs-retry-btn {
+    font-size: 20px;
+  }
 }

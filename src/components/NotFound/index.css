@@ -26,4 +26,10 @@
   .not-found-container {
     padding: 40px;
   }
+  .not-found-heading {
+    font-size: 30px;
+  }
+  .not-found-para {
+    font-size: 20px;
+  }
 }

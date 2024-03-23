@@ -75,4 +75,10 @@
   .life-at-company-image {
     width: 38%;
   }
+  .visit-link {
+    font-size: 25px;
+  }
+  .each-skill-name {
+    font-size: 20px;
+  }
 }
